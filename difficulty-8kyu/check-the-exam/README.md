@@ -1,5 +1,5 @@
 
-## Check the exam (requirements)
+## Check the exam
 <p align="justify">
 The first input array is the key to the correct answers to an exam,   
 like ["a", "a", "b", "d"]. 
