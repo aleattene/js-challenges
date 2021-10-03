@@ -28,8 +28,7 @@ DefineSuit("3♠") -> return "spades"
 
 ## Test
 To test the solution, type from the CLI:   
-<br/>
 
-	> python tests.py  
+	> node .\solution.js 
 
 </p>
