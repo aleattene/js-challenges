@@ -20,6 +20,6 @@ For example:
 To test the solution, type the following command:
 
 
-    >  node .\check-the-exam.js
+    >  node .\solution.js
 
 </p>
