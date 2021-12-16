@@ -1,2 +1,2 @@
-# js-codewars-challenges
-List of solved "codewars" challenges, ordered by difficulty.
+# js-challenges
+List of solved challenges (codewars and edibit).
