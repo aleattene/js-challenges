@@ -1,0 +1,23 @@
+{
+  "name": "js-challenges",
+  "version": "1.0.0",
+  "description": "List of solved challenges (codewars and edabit).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleattene/js-codewars-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleattene/js-codewars-challenges/issues"
+  },
+  "homepage": "https://github.com/aleattene/js-codewars-challenges#readme",
+  "devDependencies": {
+    "jest": "^27.5.0"
+  }
+}
