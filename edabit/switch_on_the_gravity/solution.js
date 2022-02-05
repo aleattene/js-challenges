@@ -18,3 +18,8 @@ function switchGravityOn(matrix){
     }
     return matrix
 }
+
+
+module.exports = {
+    switchGravityOn
+}
