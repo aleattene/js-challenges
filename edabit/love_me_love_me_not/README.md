@@ -7,7 +7,7 @@ Remember to put a _comma_ and _space_ between phrases.
 
 ### Examples
 ``` ruby
-loves_me(3) ➞ "Loves me, Loves me not, LOVES ME"
-loves_me(6) ➞ "Loves me, Loves me not, Loves me, Loves me not, Loves me, LOVES ME NOT"
-loves_me(1) ➞ "LOVES ME"
+loveMe(3) ➞ "Loves me, Loves me not, LOVES ME"
+loveMe(6) ➞ "Loves me, Loves me not, Loves me, Loves me not, Loves me, LOVES ME NOT"
+loveMe(1) ➞ "LOVES ME"
 ```
