@@ -10,5 +10,6 @@ test("Check same case", () => {
     expect(solution.sameCase('c', 'B')).toBe(0);
     expect(solution.sameCase('b', 'Z')).toBe(0);
     expect(solution.sameCase('\t', 'Z')).toBe(-1);
+    expect(solution.sameCase('z', '\t')).toBe(-1);
     expect(solution.sameCase('H', ':')).toBe(-1);
 });
