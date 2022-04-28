@@ -12,6 +12,8 @@ List of solved challenges (codewars and edabit).
 - [Check the exam](https://github.com/aleattene/js-challenges/tree/main/codewars/difficulty-8kyu/check-the-exam)
 - [Define a Card Suit](https://github.com/aleattene/js-challenges/tree/main/codewars/difficulty-8kyu/define-a-card-suit)
 - [Total Amount of Points](https://github.com/aleattene/js-challenges/tree/main/codewars/difficulty-8kyu/total-amount-of-points)
+#### Difficulty 6kyu
+- [Who Is The Hero I](https://github.com/aleattene/js-challenges/tree/main/codewars/difficulty-6kyu/who-is-the-hero-one)
 
 ## Edabit Challenges
 - [Barbecue Skewers](https://github.com/aleattene/js-challenges/tree/main/edabit/barbecue_skewers)
